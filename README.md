@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently looking for **apprenticeship** opportunities in cybersecurity and software development.
 
-- 🌱 I’m currently learning **GO,**
+- 🌱 I’m currently learning **GO**
 
 - 📫 How to reach me **mzasirpro@gmail.com**
 
